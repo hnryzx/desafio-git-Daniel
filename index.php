@@ -11,4 +11,7 @@ echo "Idade: " . $idade;
 "<br>";
 echo "Curso: " . $curso;
 
+$matricula = "67676767";
+$email = "joaopedro90@gmail.com";
+
 ?>
